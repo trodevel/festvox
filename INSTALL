@@ -3,8 +3,13 @@
 
 3rd party:
 
-- festvox-ru
+-
 
 own:
 
 -
+
+* required packages
+
+- festival festival-doc festival-freebsoft-utils
+- festvox-ru
